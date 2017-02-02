@@ -31,5 +31,7 @@ int main()
 	int* ptr  = &idx;
 	cout << sizeof(ptr);
 	
+	cout << "Hi\n";
+	
 	return 0;
 }
